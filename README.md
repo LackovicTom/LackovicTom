@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LackovicTom
 - 👀 I’m interested in IT and Cybersecurity
-- 🌱 I’m currently still studying on school
 - 📫 Lackovic.tom01@gmail.com
 - 💻 https://lackovictom.github.io/
 <!---
